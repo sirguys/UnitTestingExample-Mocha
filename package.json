@@ -4,7 +4,7 @@
   "description": "testing example with mocha",
   "main": "sirguys.test.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha sirguys.test.js"
   },
   "author": "SirGuys",
   "license": "ISC",
