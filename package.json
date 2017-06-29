@@ -1,0 +1,15 @@
+{
+  "name": "testingmocha",
+  "version": "1.0.0",
+  "description": "testing example with mocha",
+  "main": "sirguys.test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SirGuys",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
